@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+  
+  body{
+    margin:0;
+    font-family: Comfortaa;
+  }
+
+  nav{
+    margin:1em;
+       
+  }
+
+  .logo{
+    position: relative;
+    float: left;
+    top:-1em;
+    left:2em;
+  }
+  .logo a{
+    font-family: Pacifico;
+    text-decoration: none;
+
+  }
+ 
+  nav ul{
+    display:flex;
+    justify-content: flex-end;
+    list-style: none;
+    margin:0;
+  }
+
+  nav ul li{
+    padding:1em 2em;
+    margin:0;
+  }
+
+  nav ul a{
+    text-decoration: none;
+  }
+
+  a:hover{
+    color: goldenrod;
+  }
+
+  section{
+    display:flex;
+    flex-direction: column;
+    height:97vh;
+    min-height: 50ch;
+    /* min-width: 50em; */
+    background-image: url('../assets/car.jpg');
+    background-position: center;
+    background-size: cover;
+    width:100vw;
+  }
+  img{
+    display: block;
+    margin:auto;
+    margin-top:1rem;
+  }
+
+  input{
+    margin:1rem;
+    margin-top:0;
+    height:2rem;
+    border:0;
+    border-bottom:1px solid lightgray;
+  }
+
+  #submit:hover{
+    transition: .3s;
+    background-color: goldenrod;
+    color: black;
+  }
+
+
