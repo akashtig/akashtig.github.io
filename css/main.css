@@ -94,7 +94,7 @@
     color:white;
     border-radius: 0.5em;
   }
-  @media screen and (max-width:40em)
+  @media screen and (max-width:600px)
   {
     section{
       height:100vh;
