@@ -147,7 +147,7 @@
     color:white;
     border-radius: 0.5em;
   }
-  @media screen and (max-width:50em)
+  @media screen and (max-width:600px)
   {
     section{
       background-image: none;
