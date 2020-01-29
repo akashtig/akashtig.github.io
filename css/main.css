@@ -94,11 +94,11 @@
     color:white;
     border-radius: 0.5em;
   }
-  @media screen and (max-width:600px)
-  {
+  @media screen and (max-width:500px)
+/*   {
     section{
       height:100vh;
-    }
+    } */
     
     
     nav ul li {
