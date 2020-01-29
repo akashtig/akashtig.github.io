@@ -96,6 +96,9 @@
   }
   @media screen and (max-width:1000px)
   {
+    body{
+      font-size:28px;
+    }
     section{
       height:100vh;
     }
