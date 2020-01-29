@@ -149,6 +149,9 @@
   }
   @media (max-width:1000px)
   {
+    body>*{
+      font-size: 28px;
+    }
     section{
       background-image: none;
       background-color:rgb(210, 241, 236);
