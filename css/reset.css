@@ -45,7 +45,7 @@
   section{
     display:flex;
     flex-direction: column;
-    height:97vh;
+    height:97vmin;
     min-height: 50ch;
     /* min-width: 50em; */
     background-image: url('../assets/car.jpg');
